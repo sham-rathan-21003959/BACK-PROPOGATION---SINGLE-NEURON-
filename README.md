@@ -1,4 +1,7 @@
-# BACK-PROPOGATION---SINGLE-NEURON-
+### EX NO: 04
+### DATE :
+
+# <p align='center'> BACK-PROPOGATION---SINGLE-NEURON </p>
 ## Aim:
 To write a python program to perform binary classification.
 
